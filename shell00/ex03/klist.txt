@@ -1,0 +1,6 @@
+Credentials cache: API:C55D301F-110E-4859-8FE3-68F32C91FA78
+        Principal: irulusoy@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 18 10:15:34 2021  Oct 18 20:15:34 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Oct 18 10:15:35 2021  Oct 18 20:15:34 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
